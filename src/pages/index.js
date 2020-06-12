@@ -6,7 +6,7 @@ import logo from '../images/logo.svg'
 const Home = () => (
   <>
     <Helmet
-      title='hello future'
+      title='HELLO FUTURE'
       meta={[
         {
           name: 'description',
